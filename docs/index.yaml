@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  openldap:
+  - apiVersion: v1
+    created: 2018-05-10T10:37:57.519218377+02:00
+    description: A OpenLDAP Chart for Kubernetes
+    digest: bf204c4b18b802e6de65bb8e9bcec10e674d9fb9c0d0b77e097ac9995987ee0c
+    engine: gotpl
+    home: https://www.openldap.ort
+    keywords:
+    - ldap
+    maintainers:
+    - email: hans.kristian.moen@gmail.com
+      name: Hans Kristian Moen
+    name: openldap
+    sources:
+    - https://github.com/openldap/openldap
+    urls:
+    - https://marco2207.github.io/openldapHelm/openldap-0.1.5.tgz
+    version: 0.1.5
+generated: 2018-05-10T10:37:57.518179007+02:00
